@@ -1,0 +1,8 @@
+Markdowns
+1) Importing Libraries and dataset
+2) Data preprocessing
+3) data visualization
+4) correlation
+5) Regression model from scratch
+6) model evaluation
+7) Principal Components analysis
