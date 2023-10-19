@@ -1,3 +1,5 @@
 age,bmi,heomoglobin,blood_glucose_level,output,flag,username,timestamp
 23,90,34,44,Person is Diabetes POSITIVE,,,2023-10-03 10:40:30.027162
 23,90,34,44,Person is Diabetes POSITIVE,,,2023-10-03 10:40:36.646875
+0,0,0,0,,,,2023-10-19 09:10:49.576709
+80,50,6.6,140,Person is Diabetes POSITIVE🙁,,,2023-10-19 09:10:56.707165
